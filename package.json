@@ -1,0 +1,8 @@
+{
+  "name": "dgs",
+  "version": "1.0.0",
+  "description": "Disease Game Status : League Of Legends",
+  "main": "index.js",
+  "author": "Zagaek",
+  "license": "ISC"
+}
